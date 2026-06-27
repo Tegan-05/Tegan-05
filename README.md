@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Tegan! 👋
 
-<!--
-**Tegan-05/Tegan-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information and Communications Technology student based in Durban, South Africa, passionate about building impactful software, developing mobile applications, and diving deep into network infrastructure.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Up To
+* 🎓 Pursuing a Bachelor of ICT at Durban University of Technology.
+* 📱 Developing mobile apps focused on community and utility (Jetpack Compose, Firebase).
+* 🛠️ Exploring 2D game development and tinkering with open-source tools.
+* 🌐 Deepening my knowledge in networking, routing, and infrastructure systems.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java, Kotlin, Python, C# |
+| **Mobile & Frontend** | Android Studio, Jetpack Compose |
+| **Backend & Database** | Firebase |
+| **Game Dev** | Godot, GDevelop |
+| **OS & Tools** | Linux (Zorin OS), Git, GitHub |
+
+---
+
+### 📂 Featured Projects
+* **Community Volunteer Platform:** A mobile app connecting local organizations with volunteers.
+* **The Last Ascent:** A 2D magic-castle themed platformer game.
+* **Gesture Scroller:** A Python utility that uses webcam tracking to control document scrolling.
+
+---
+
+### 📫 Let's Connect!
+* 💼 Connect with me on [LinkedIn](YOUR_LINKEDIN_URL)
+* 📧 Reach out via [Email](mailto:YOUR_EMAIL@example.com)
