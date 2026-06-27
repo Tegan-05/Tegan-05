@@ -32,5 +32,5 @@ I'm an Information and Communications Technology student based in Durban, South 
 ---
 
 ### 📫 Let's Connect!
-* 💼 Connect with me on [LinkedIn](YOUR_LINKEDIN_URL)
-* 📧 Reach out via [Email](mailto:YOUR_EMAIL@example.com)
+* 💼 Connect with me on [LinkedIn](www.linkedin.com/in/tegan-pillay-735506396)
+* 📧 Reach out via [Email](mailto:teganpillay69@gmail.com)
