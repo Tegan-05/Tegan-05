@@ -1,6 +1,6 @@
 # Hi there, I'm Tegan! 👋
 
-I'm an Information and Communications Technology student based in Durban, South Africa, passionate about building impactful software, developing mobile applications, and diving deep into network infrastructure.
+I'm an ICT student based in Durban, South Africa, passionate about building impactful software, developing mobile applications, and diving deep into network infrastructure.
 
 ---
 
@@ -19,7 +19,6 @@ I'm an Information and Communications Technology student based in Durban, South 
 | **Languages** | Java, Kotlin, Python, C# |
 | **Mobile & Frontend** | Android Studio, Jetpack Compose |
 | **Backend & Database** | Firebase |
-| **Game Dev** | Godot, GDevelop |
 | **OS & Tools** | Linux (Zorin OS), Git, GitHub |
 
 ---
@@ -28,6 +27,7 @@ I'm an Information and Communications Technology student based in Durban, South 
 * **Community Volunteer Platform:** A mobile app connecting local organizations with volunteers.
 * **The Last Ascent:** A 2D magic-castle themed platformer game.
 * **Gesture Scroller:** A Python utility that uses webcam tracking to control document scrolling.
+* **Image Identifier:** A image identifier that allows users to upload an image and have it identified by % using streamlit and opencv mechine learning libaries.
 
 ---
 
