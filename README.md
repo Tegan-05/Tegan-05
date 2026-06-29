@@ -23,13 +23,6 @@ I'm an ICT student based in Durban, South Africa, passionate about building impa
 
 ---
 
-### 📂 Featured Projects
-* **Community Volunteer Platform:** A mobile app connecting local organizations with volunteers.
-* **The Last Ascent:** A 2D magic-castle themed platformer game.
-* **Gesture Scroller:** A Python utility that uses webcam tracking to control document scrolling.
-* **Image Identifier:** A image identifier that allows users to upload an image and have it identified by % using streamlit and opencv mechine learning libaries.
-
----
 
 ### 📫 Let's Connect!
 * 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/tegan-pillay-735506396)
